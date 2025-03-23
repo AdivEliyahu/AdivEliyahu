@@ -72,17 +72,11 @@ I'm a Software Engineering student majoring in Cyber Security, and I'm always lo
 
 ## 📫 Contact
 
-<div style="display: flex; align-items: center; gap: 15px;">
-  <a href="mailto:adiveliyahu3@gmail.com" style="display: flex; align-items: center; text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png" alt="Email" width="24" height="24"/>
-    <span style="margin-left: 5px; font-size: 14px; color: white;">adiveliyahu3@gmail.com</span>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/adiv-eliyahu" target="_blank" style="display: flex; align-items: center; text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24"/>
-    <span style="margin-left: 5px; font-size: 14px; color: white;">in/adiv-eliyahu</span>
-  </a>
+<div align="center">
+  <a href="mailto:adiveliyahu3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/adiv-eliyahu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
+
 
 
  
