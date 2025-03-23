@@ -1,24 +1,28 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm Adiv
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm Adiv <br/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Tech+Enthusiast)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Tech+Enthusiast)](https://git.io/typing-svg)
 
-## I'm a Software Engineering student majoring in Cyber Security, and I'm always looking to learn and investigate new technologies to stay up-to-date with industry needs.
 
----
+I'm a Software Engineering student majoring in Cyber Security, and I'm always looking to learn and investigate new technologies to stay up-to-date with industry needs.
+
+<br/>
 
 ## 💻 Projects
 
-### **Collapsing Building Prevention**
+
+### <a href="https://github.com/AdivEliyahu/CBP" target="_blank">**Collapsing Building Prevention**</a>
 - Developed a web application for building safety monitoring.
 - Utilized **Flask (backend), React (frontend), and MySQL (database).**
 - Integrated **Atomation API** to gather real-time sensor data.
 
-### **Online Shop**
+
+
+
+### <a href="https://github.com/AdivEliyahu/SneakerShop" target="_blank">**Online Shop**</a>
 - Developed a full-stack web application using the **MVC design pattern**.
 - Utilized: **C#, ASP.NET, HTML, CSS, Bootstrap, MSSQL.**
 - Integrated **Paypal API** for convenient payment.
 
----
+<br/>
 
 ## 🌐 Languages:
 
@@ -35,26 +39,55 @@
 ## 🧰 Tools:
 
 <div>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a> 
-    <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></span>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  </a> 
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  </span>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL" width="40" height="40"/>
+  </a>
+</div>
 
- 
- </div>
-
-
----
+<br/>
 
 ## 📫 Contact
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <span>📧 Email: <a href="mailto:adiveliyahu3@gmail.com">adiveliyahu3@gmail.com</a></span>
-  <span>🐙 GitHub: <a href="https://github.com/AdivEliyahu">github.com/AdivEliyahu</a></span>
-  <span>🔗 LinkedIn: <a href="https://www.linkedin.com/in/adiv-eliyahu">linkedin.com/in/adiv-eliyahu</a></span>
+  <div style="text-align: center;">
+    <a href="mailto:adiveliyahu3@gmail.com">
+      <img src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png" alt="Email" width="24" height="24"/>
+    </a>
+    <div style="font-size: 14px;">adiveliyahu3@gmail.com</div>
+  </div>
+  <div style="text-align: center;">
+    <a href="https://www.linkedin.com/in/adiv-eliyahu" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24"/>
+    </a>
+    <div style="font-size: 14px;">in/adiv-eliyahu</div>
+  </div>
 </div>
+
+
  
 ---
 
