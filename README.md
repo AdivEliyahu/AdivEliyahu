@@ -2,7 +2,7 @@
 
 
 
-I'm a Software Engineering student majoring in Cyber Security, and I'm always looking to learn and investigate new technologies to stay up-to-date with industry needs.
+Software engineer with a passion for learning, teamwork, and emerging technologies. Known for strong collaboration skills, a can-do attitude, and a drive to tackle challenges while delivering high-quality results.
 
 <br/>
 
