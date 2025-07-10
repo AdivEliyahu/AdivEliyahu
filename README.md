@@ -9,6 +9,14 @@ I'm a Software Engineering student majoring in Cyber Security, and I'm always lo
 ## 💻 Projects
 
 
+### <a href ="https://github.com/AdivEliyahu/Final-Project" target="_blank">**Text Anonymization - Research Final Project**</a>
+- Developed a full-stack platform for automated text anonymization
+- Designed and implemented a pipeline combining NER (spaCy) and LLMs (OpenAI API) to detect and classify sensitive entitie
+- Utilized **Django (backend), React (frontend), MongoDB (database), OpenAI API, spaCy**.
+
+
+
+
 ### <a href="https://github.com/AdivEliyahu/CBP" target="_blank">**Collapsing Building Prevention**</a>
 - Developed a web application for building safety monitoring.
 - Utilized **Flask (backend), React (frontend), and MySQL (database).**
